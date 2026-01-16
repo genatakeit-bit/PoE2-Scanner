@@ -1,0 +1,7 @@
+{
+  "name": "PoE2 Console Companion",
+  "description": "A visual companion app for Path of Exile 2 on PS5. Capture photos of your items to get instant analysis, price estimates, and build advice using Gemini Vision.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
